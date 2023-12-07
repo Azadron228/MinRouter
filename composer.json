@@ -1,0 +1,16 @@
+{
+    "name": "aza/min-router",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aza\\MinRouter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Azardo5300",
+            "email": "ibrayv2005@gmail.com"
+        }
+    ],
+    "require": {}
+}
