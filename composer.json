@@ -1,5 +1,5 @@
 {
-    "name": "Azardo5300/min-router",
+    "name": "azardo5300/min-router",
     "license": "MIT",
     "autoload": {
         "psr-4": {
